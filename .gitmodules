@@ -1,8 +1,8 @@
 [submodule "odoo_l10n"]
 	path = odoo_l10n
-	url = https://bitbucket.org/blueorangegroup/odoo_l10n/src/13.0/
+	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
 	branch = 13.0
 [submodule "odoo_l10n_uy"]
 	path = odoo_l10n_uy
-	url = https://bitbucket.org/blueorangegroup/odoo_l10n_uy/src/13.0/
+	url = git@bitbucket.org:blueorangegroup/odoo_l10n_uy.git
 	branch = 13.0
