@@ -6,3 +6,8 @@
 	path = odoo_l10n_uy
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n_uy.git
 	branch = 13.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 13.0
