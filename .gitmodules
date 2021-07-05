@@ -11,3 +11,7 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 13.0
+[submodule "odoo_addons_others_uy"]
+	path = odoo_addons_others_uy
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_others_uy.git
+	branch = 13.0
